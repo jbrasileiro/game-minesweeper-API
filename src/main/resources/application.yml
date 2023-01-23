@@ -1,0 +1,8 @@
+VERSION: 1.0.0
+server:
+  error.include-message: always
+spring:
+  application:
+    name: Minesweeper-API
+  main:
+    banner-mode: "off"
